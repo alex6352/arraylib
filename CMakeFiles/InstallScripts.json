@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/bogdanlevenko/arraylib/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
